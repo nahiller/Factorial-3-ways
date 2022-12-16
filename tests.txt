@@ -1,0 +1,19 @@
+x canary test 
+x -1 factorial throws exception using imperative iteration
+x 0 factorial returns 1 using imperative iteration
+x 1 factorial returns 1 using imperative iteration
+x 2 factorial returns 2 using imperative iteration
+x 5 factorial returns 120 using imperative iteration
+x 10 factorial returns 3628800 using imperative iteration
+x 20 factorial returns 2432902008176640000 using imperative iteration
+x 50 factorial returns 30414093201713378043612608166064768844377641568960512000000000000 using imperative iteration
+
+x recursive function returns 1 when 0 is the input
+x recursive function returns 1 when 1 is the input
+x recursive function throws exception when -1 is the input
+x recursive function returns 2 when 2 is the input
+x recursive function returns 5 when 120 is the input
+x recursive function returns 10 when 3628800 is the input
+x recursive function returns 20 when 2432902008176640000 is the input
+x recursive function returns 50 when 30414093201713378043612608166064768844377641568960512000000000000 is the input
+
